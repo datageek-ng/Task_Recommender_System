@@ -1,0 +1,817 @@
+﻿Time_of_the_day,Weekday,Location,Task_Duration,Completion_rating,Type_of_task
+Afternoon,saturday,indoor,very long,8,chores
+Evening,saturday,indoor,short,1,intellectual
+Night,saturday,outdoor,very long,8,social
+Early Morning,sunday,indoor,long,1,intellectual
+Afternoon,sunday,indoor,very long,7,chores
+Night,sunday,indoor,very long,8,intellectual
+Evening,sunday,indoor,very long,1,intellectual
+Midnight,sunday,outdoor,long,7,errands
+Early Morning,Monday,indoor,standard,3,fitness
+Morning,Monday,indoor,long,7,intellectual
+Afternoon,Monday,indoor,very long,8,intellectual
+Evening,Monday,indoor,very long,6,intellectual
+Night,Monday,indoor,very short,9,intellectual
+Midnight,Monday,indoor,very long,6,intellectual
+Morning,Tuesday,indoor,very long,7,intellectual
+Afternoon,Tuesday,indoor,short,1,intellectual
+Evening,Tuesday,indoor,very long,7,social
+Night,Tuesday,indoor,very long,7,intellectual
+Midnight,Tuesday,indoor,very long,9,intellectual
+Morning,Wednesday,indoor,very long,7,intellectual
+Afternoon,Wednesday,indoor,very short,1,intellectual
+Evening,Wednesday,indoor,very long,7,intellectual
+Night,Wednesday,indoor,short,7,intellectual
+Midnight,Wednesday,indoor,very long,1,intellectual
+Morning,Thursday,indoor,short,7,intellectual
+Afternoon,Thursday,outdoor,short,10,errands
+Evening,Thursday,indoor,very long,7,intellectual
+Night,Thursday,indoor,very long,7,social
+Midnight,Thursday,indoor,very long,6,physical
+Morning,Friday,indoor,very long,8,intellectual
+Afternoon,Friday,indoor,very long,5,intellectual
+Evening,Friday,indoor,very long,7,social
+Night,Friday,indoor,short,9,Spiritual
+Midnight,Friday,indoor,very long,10,social
+Afternoon,saturday,indoor,very long,8,chores
+Evening,saturday,indoor,very long,1,intellectual
+Night,saturday,outdoor,very long,8,social
+Early Morning,sunday,indoor,long,1,intellectual
+Afternoon,sunday,indoor,very long,7,chores
+Night,sunday,indoor,very long,8,intellectual
+Evening,sunday,indoor,very long,1,intellectual
+Midnight,sunday,outdoor,long,7,errands
+Early Morning,Monday,indoor,standard,3,fitness
+Morning,Monday,indoor,very long,7,intellectual
+Afternoon,Monday,indoor,very long,8,intellectual
+Evening,Monday,indoor,short,6,intellectual
+Night,Monday,indoor,very long,9,intellectual
+Midnight,Monday,indoor,very long,6,intellectual
+Morning,Tuesday,indoor,very long,7,intellectual
+Afternoon,Tuesday,indoor,very long,1,intellectual
+Evening,Tuesday,indoor,short,7,social
+Night,Tuesday,indoor,very long,7,intellectual
+Midnight,Tuesday,indoor,very long,9,intellectual
+Morning,Wednesday,indoor,very long,7,intellectual
+Afternoon,Wednesday,indoor,short,1,intellectual
+Evening,Wednesday,indoor,very long,7,intellectual
+Night,Wednesday,indoor,very long,7,intellectual
+Midnight,Wednesday,indoor,very long,1,intellectual
+Morning,Thursday,indoor,very long,7,intellectual
+Afternoon,Thursday,outdoor,short,10,errands
+Evening,Thursday,indoor,very long,7,intellectual
+Night,Thursday,indoor,very short,7,social
+Midnight,Thursday,indoor,very long,6,physical
+Morning,Friday,indoor,long,8,intellectual
+Afternoon,Friday,indoor,very long,5,intellectual
+Evening,Friday,indoor,long,7,social
+Night,Friday,indoor,very long,9,Spiritual
+Midnight,Friday,indoor,long,10,social
+Afternoon,saturday,indoor,very long,8,chores
+Evening,saturday,indoor,very long,1,intellectual
+Night,saturday,outdoor,very long,8,social
+Early Morning,sunday,indoor,long,1,intellectual
+Afternoon,sunday,indoor,very long,7,chores
+Night,sunday,indoor,very long,8,intellectual
+Evening,sunday,indoor,very long,1,intellectual
+Midnight,sunday,outdoor,long,7,errands
+Early Morning,Monday,indoor,standard,3,fitness
+Morning,Monday,indoor,very long,7,intellectual
+Afternoon,Monday,indoor,very long,8,intellectual
+Evening,Monday,indoor,very long,6,intellectual
+Night,Monday,indoor,very long,9,intellectual
+Midnight,Monday,indoor,very long,6,intellectual
+Morning,Tuesday,indoor,very long,7,fitness
+Afternoon,Tuesday,indoor,very long,1,intellectual
+Evening,Tuesday,indoor,very long,7,social
+Night,Tuesday,indoor,very long,7,intellectual
+Midnight,Tuesday,indoor,very long,9,intellectual
+Morning,Wednesday,indoor,very long,7,intellectual
+Afternoon,Wednesday,indoor,very long,1,intellectual
+Evening,Wednesday,indoor,very long,7,intellectual
+Night,Wednesday,indoor,very long,7,intellectual
+Midnight,Wednesday,indoor,very long,1,intellectual
+Morning,Thursday,indoor,very long,7,intellectual
+Afternoon,Thursday,outdoor,short,10,errands
+Evening,Thursday,indoor,very long,7,intellectual
+Night,Thursday,indoor,very long,7,social
+Midnight,Thursday,indoor,very long,6,physical
+Morning,Friday,indoor,very long,8,intellectual
+Afternoon,Friday,indoor,very long,5,intellectual
+Evening,Friday,indoor,very long,7,social
+Night,Friday,indoor,very long,9,Spiritual
+Midnight,Friday,indoor,very long,10,social
+Afternoon,saturday,indoor,very long,8,chores
+Evening,saturday,indoor,very long,1,intellectual
+Night,saturday,outdoor,very long,8,social
+Early Morning,sunday,indoor,long,1,intellectual
+Afternoon,sunday,indoor,very long,7,chores
+Night,sunday,indoor,very long,8,intellectual
+Evening,sunday,indoor,very long,1,intellectual
+Midnight,sunday,outdoor,long,7,errands
+Early Morning,Monday,indoor,standard,3,fitness
+Morning,Monday,indoor,very short,7,intellectual
+Afternoon,Monday,indoor,very long,8,intellectual
+Evening,Monday,indoor,very long,6,intellectual
+Night,Monday,indoor,very long,9,intellectual
+Midnight,Monday,indoor,long,6,intellectual
+Morning,Tuesday,indoor,very long,7,intellectual
+Afternoon,Tuesday,indoor,very long,1,intellectual
+Evening,Tuesday,indoor,very long,7,social
+Night,Tuesday,indoor,very long,7,intellectual
+Midnight,Tuesday,indoor,long,9,intellectual
+Morning,Wednesday,indoor,very long,7,intellectual
+Afternoon,Wednesday,indoor,very long,1,intellectual
+Evening,Wednesday,indoor,very short,7,intellectual
+Night,Wednesday,indoor,very short,7,fitness
+Midnight,Wednesday,indoor,very long,1,intellectual
+Morning,Thursday,indoor,very long,7,intellectual
+Afternoon,Thursday,outdoor,short,10,errands
+Evening,Thursday,indoor,very long,7,intellectual
+Night,Thursday,indoor,very long,7,social
+Midnight,Thursday,indoor,very long,6,physical
+Morning,Friday,indoor,very long,8,intellectual
+Afternoon,Friday,indoor,long,5,intellectual
+Evening,Friday,indoor,very long,7,social
+Night,Friday,indoor,long,9,Spiritual
+Midnight,Friday,indoor,very long,10,social
+Afternoon,saturday,indoor,very short,8,chores
+Evening,saturday,indoor,very long,1,intellectual
+Night,saturday,outdoor,very long,8,social
+Early Morning,sunday,indoor,long,1,intellectual
+Afternoon,sunday,indoor,very long,7,chores
+Night,sunday,indoor,very long,8,intellectual
+Evening,sunday,indoor,very long,1,intellectual
+Midnight,sunday,outdoor,long,7,errands
+Early Morning,Monday,indoor,standard,3,fitness
+Morning,Monday,indoor,very long,7,intellectual
+Afternoon,Monday,indoor,very long,8,intellectual
+Evening,Monday,indoor,very long,6,intellectual
+Night,Monday,indoor,very long,9,intellectual
+Midnight,Monday,indoor,very long,6,intellectual
+Morning,Tuesday,indoor,very long,7,intellectual
+Afternoon,Tuesday,indoor,very long,1,intellectual
+Evening,Tuesday,indoor,very long,7,social
+Night,Tuesday,indoor,very long,7,intellectual
+Midnight,Tuesday,indoor,very long,9,intellectual
+Morning,Wednesday,indoor,very long,7,intellectual
+Afternoon,Wednesday,indoor,very long,1,intellectual
+Evening,Wednesday,indoor,very long,7,intellectual
+Night,Wednesday,indoor,very long,7,intellectual
+Midnight,Wednesday,indoor,very long,1,intellectual
+Morning,Thursday,indoor,very long,7,intellectual
+Afternoon,Thursday,outdoor,short,10,errands
+Evening,Thursday,indoor,very long,7,intellectual
+Night,Thursday,indoor,very short,7,social
+Midnight,Thursday,indoor,very long,6,physical
+Morning,Friday,indoor,very long,8,intellectual
+Afternoon,Friday,indoor,very long,5,intellectual
+Evening,Friday,indoor,very long,7,social
+Night,Friday,indoor,very long,9,Spiritual
+Midnight,Friday,indoor,very long,10,social
+Afternoon,saturday,indoor,very long,8,chores
+Evening,saturday,indoor,very long,1,intellectual
+Night,saturday,outdoor,very long,8,social
+Early Morning,sunday,indoor,long,1,intellectual
+Afternoon,sunday,indoor,very long,7,chores
+Night,sunday,indoor,very long,8,intellectual
+Evening,sunday,indoor,very long,1,intellectual
+Midnight,sunday,outdoor,long,7,errands
+Early Morning,Monday,indoor,standard,3,fitness
+Morning,Monday,indoor,very long,7,intellectual
+Afternoon,Monday,indoor,very long,8,intellectual
+Evening,Monday,indoor,very long,6,intellectual
+Night,Monday,indoor,very long,9,intellectual
+Midnight,Monday,indoor,very long,6,intellectual
+Morning,Tuesday,indoor,short,7,intellectual
+Afternoon,Tuesday,indoor,very long,1,intellectual
+Evening,Tuesday,indoor,very long,7,social
+Night,Tuesday,indoor,very short,7,intellectual
+Midnight,Tuesday,indoor,very long,9,intellectual
+Morning,Wednesday,indoor,very long,7,intellectual
+Afternoon,Wednesday,indoor,very long,1,intellectual
+Evening,Wednesday,indoor,very long,7,intellectual
+Night,Wednesday,indoor,very long,7,intellectual
+Midnight,Wednesday,indoor,very short,1,intellectual
+Morning,Thursday,indoor,very long,7,intellectual
+Afternoon,Thursday,outdoor,short,10,errands
+Evening,Thursday,indoor,very long,7,intellectual
+Night,Thursday,indoor,very long,7,social
+Midnight,Thursday,indoor,very long,6,physical
+Morning,Friday,indoor,very long,8,intellectual
+Afternoon,Friday,indoor,very long,5,intellectual
+Evening,Friday,indoor,very long,7,social
+Night,Friday,indoor,short,9,Spiritual
+Midnight,Friday,indoor,very long,10,social
+Afternoon,saturday,indoor,very long,8,chores
+Evening,saturday,indoor,very long,1,intellectual
+Night,saturday,outdoor,very long,8,social
+Early Morning,sunday,indoor,long,1,intellectual
+Afternoon,sunday,indoor,very long,7,chores
+Night,sunday,indoor,very long,8,intellectual
+Evening,sunday,indoor,very long,1,intellectual
+Midnight,sunday,outdoor,long,7,errands
+Early Morning,Monday,indoor,standard,3,fitness
+Morning,Monday,indoor,very long,7,intellectual
+Afternoon,Monday,indoor,very long,8,intellectual
+Evening,Monday,indoor,very long,6,intellectual
+Night,Monday,indoor,very long,9,intellectual
+Midnight,Monday,indoor,very long,6,intellectual
+Morning,Tuesday,indoor,very long,7,intellectual
+Afternoon,Tuesday,indoor,very long,1,intellectual
+Evening,Tuesday,indoor,very long,7,social
+Night,Tuesday,indoor,very long,7,intellectual
+Midnight,Tuesday,indoor,very long,9,intellectual
+Morning,Wednesday,indoor,very long,7,intellectual
+Afternoon,Wednesday,indoor,very long,1,intellectual
+Evening,Wednesday,indoor,very long,7,intellectual
+Night,Wednesday,indoor,very long,7,fitness
+Midnight,Wednesday,indoor,very long,1,intellectual
+Morning,Thursday,indoor,very long,7,intellectual
+Afternoon,Thursday,outdoor,short,10,errands
+Evening,Thursday,indoor,very long,7,intellectual
+Night,Thursday,indoor,very long,7,social
+Midnight,Thursday,indoor,very long,6,physical
+Morning,Friday,indoor,very long,8,intellectual
+Afternoon,Friday,indoor,very long,5,intellectual
+Evening,Friday,indoor,very long,7,social
+Night,Friday,indoor,very long,9,Spiritual
+Midnight,Friday,indoor,very long,10,social
+Afternoon,saturday,indoor,very long,8,chores
+Evening,saturday,indoor,very long,1,intellectual
+Night,saturday,outdoor,very long,8,social
+Early Morning,sunday,indoor,long,1,intellectual
+Afternoon,sunday,indoor,very long,7,chores
+Night,sunday,indoor,very long,8,intellectual
+Evening,sunday,indoor,very long,1,intellectual
+Midnight,sunday,outdoor,very long,7,errands
+Early Morning,Monday,indoor,long,3,fitness
+Morning,Monday,indoor,very long,7,intellectual
+Afternoon,Monday,indoor,very long,8,intellectual
+Evening,Monday,indoor,very long,6,intellectual
+Night,Monday,indoor,very short,9,intellectual
+Midnight,Monday,indoor,very long,6,intellectual
+Morning,Tuesday,indoor,very long,7,intellectual
+Afternoon,Tuesday,indoor,very long,1,intellectual
+Evening,Tuesday,indoor,very long,7,social
+Night,Tuesday,indoor,very long,7,intellectual
+Midnight,Tuesday,indoor,very long,9,intellectual
+Morning,Wednesday,indoor,very long,7,intellectual
+Afternoon,Wednesday,indoor,very long,1,intellectual
+Evening,Wednesday,indoor,very long,7,intellectual
+Night,Wednesday,indoor,long,7,intellectual
+Midnight,Wednesday,indoor,very long,1,intellectual
+Morning,Thursday,indoor,very long,7,intellectual
+Afternoon,Thursday,outdoor,short,10,errands
+Evening,Thursday,indoor,very long,7,intellectual
+Night,Thursday,indoor,very long,7,social
+Midnight,Thursday,indoor,very long,6,physical
+Morning,Friday,indoor,very short,8,intellectual
+Afternoon,Friday,indoor,very long,5,intellectual
+Evening,Friday,indoor,long,7,social
+Night,Friday,indoor,very long,9,Spiritual
+Midnight,Friday,indoor,very long,10,social
+Afternoon,saturday,indoor,very long,8,chores
+Evening,saturday,indoor,short,1,intellectual
+Night,saturday,outdoor,very long,8,social
+Early Morning,sunday,indoor,long,1,intellectual
+Afternoon,sunday,indoor,very long,7,chores
+Night,sunday,indoor,very long,8,intellectual
+Evening,sunday,indoor,very long,1,intellectual
+Midnight,sunday,outdoor,long,7,errands
+Early Morning,Monday,indoor,standard,3,fitness
+Morning,Monday,indoor,long,7,intellectual
+Afternoon,Monday,indoor,very long,8,intellectual
+Evening,Monday,indoor,very long,6,intellectual
+Night,Monday,indoor,very short,9,intellectual
+Midnight,Monday,indoor,very long,6,intellectual
+Morning,Tuesday,indoor,very long,7,intellectual
+Afternoon,Tuesday,indoor,short,1,intellectual
+Evening,Tuesday,indoor,very long,7,social
+Night,Tuesday,indoor,very long,7,fitness
+Midnight,Tuesday,indoor,very long,9,intellectual
+Morning,Wednesday,indoor,very long,7,intellectual
+Afternoon,Wednesday,indoor,very short,1,intellectual
+Evening,Wednesday,indoor,very long,7,intellectual
+Night,Wednesday,indoor,short,7,intellectual
+Midnight,Wednesday,indoor,very long,1,intellectual
+Morning,Thursday,indoor,short,7,intellectual
+Afternoon,Thursday,outdoor,short,10,errands
+Evening,Thursday,indoor,very long,7,intellectual
+Night,Thursday,indoor,very long,7,social
+Midnight,Thursday,indoor,very long,6,physical
+Morning,Friday,indoor,very long,8,intellectual
+Afternoon,Friday,indoor,very long,5,intellectual
+Evening,Friday,indoor,very long,7,social
+Night,Friday,indoor,short,9,Spiritual
+Midnight,Friday,indoor,very long,10,social
+Afternoon,saturday,indoor,very long,8,chores
+Evening,saturday,indoor,very long,1,intellectual
+Night,saturday,outdoor,very long,8,social
+Early Morning,sunday,indoor,long,1,intellectual
+Afternoon,sunday,indoor,very long,7,chores
+Night,sunday,indoor,very long,8,intellectual
+Evening,sunday,indoor,very long,1,intellectual
+Midnight,sunday,outdoor,long,7,errands
+Early Morning,Monday,indoor,standard,3,fitness
+Morning,Monday,indoor,very long,7,intellectual
+Afternoon,Monday,indoor,very long,8,intellectual
+Evening,Monday,indoor,short,6,intellectual
+Night,Monday,indoor,very long,9,intellectual
+Midnight,Monday,indoor,very long,6,intellectual
+Morning,Tuesday,indoor,very long,7,intellectual
+Afternoon,Tuesday,indoor,very long,1,intellectual
+Evening,Tuesday,indoor,short,7,social
+Night,Tuesday,indoor,very long,7,intellectual
+Midnight,Tuesday,indoor,very long,9,intellectual
+Morning,Wednesday,indoor,very long,7,intellectual
+Afternoon,Wednesday,indoor,short,1,intellectual
+Evening,Wednesday,indoor,very long,7,intellectual
+Night,Wednesday,indoor,very long,7,intellectual
+Midnight,Wednesday,indoor,very long,1,intellectual
+Morning,Thursday,indoor,very long,7,intellectual
+Afternoon,Thursday,outdoor,short,10,errands
+Evening,Thursday,indoor,very long,7,intellectual
+Night,Thursday,indoor,very short,7,social
+Midnight,Thursday,indoor,very long,6,physical
+Morning,Friday,indoor,long,8,intellectual
+Afternoon,Friday,indoor,very long,5,intellectual
+Evening,Friday,indoor,long,7,social
+Night,Friday,indoor,very long,9,Spiritual
+Midnight,Friday,indoor,long,10,social
+Afternoon,saturday,indoor,very long,8,chores
+Evening,saturday,indoor,very long,1,intellectual
+Night,saturday,outdoor,very long,8,social
+Early Morning,sunday,indoor,long,1,intellectual
+Afternoon,sunday,indoor,very long,7,chores
+Night,sunday,indoor,very long,8,intellectual
+Evening,sunday,indoor,very long,1,intellectual
+Midnight,sunday,outdoor,long,7,errands
+Early Morning,Monday,indoor,standard,3,fitness
+Morning,Monday,indoor,very long,7,intellectual
+Afternoon,Monday,indoor,very long,8,intellectual
+Evening,Monday,indoor,very long,6,intellectual
+Night,Monday,indoor,very long,9,fitness
+Midnight,Monday,indoor,very long,6,intellectual
+Morning,Tuesday,indoor,very long,7,intellectual
+Afternoon,Tuesday,indoor,very long,1,intellectual
+Evening,Tuesday,indoor,very long,7,social
+Night,Tuesday,indoor,very long,7,intellectual
+Midnight,Tuesday,indoor,very long,9,intellectual
+Morning,Wednesday,indoor,very long,7,intellectual
+Afternoon,Wednesday,indoor,very long,1,intellectual
+Evening,Wednesday,indoor,very long,7,intellectual
+Night,Wednesday,indoor,very long,7,intellectual
+Midnight,Wednesday,indoor,very long,1,intellectual
+Morning,Thursday,indoor,very long,7,intellectual
+Afternoon,Thursday,outdoor,short,10,errands
+Evening,Thursday,indoor,very long,7,intellectual
+Night,Thursday,indoor,very long,7,social
+Midnight,Thursday,indoor,very long,6,physical
+Morning,Friday,indoor,very long,8,intellectual
+Afternoon,Friday,indoor,very long,5,intellectual
+Evening,Friday,indoor,very long,7,social
+Night,Friday,indoor,very long,9,Spiritual
+Midnight,Friday,indoor,very long,10,social
+Afternoon,saturday,indoor,very long,8,chores
+Evening,saturday,indoor,very long,1,intellectual
+Night,saturday,outdoor,very long,8,social
+Early Morning,sunday,indoor,long,1,intellectual
+Afternoon,sunday,indoor,very long,7,chores
+Night,sunday,indoor,very long,8,intellectual
+Evening,sunday,indoor,very long,1,intellectual
+Midnight,sunday,outdoor,long,7,errands
+Early Morning,Monday,indoor,standard,3,fitness
+Morning,Monday,indoor,very short,7,intellectual
+Afternoon,Monday,indoor,very long,8,intellectual
+Evening,Monday,indoor,very long,6,intellectual
+Night,Monday,indoor,very long,9,intellectual
+Midnight,Monday,indoor,long,6,intellectual
+Morning,Tuesday,indoor,very long,7,intellectual
+Afternoon,Tuesday,indoor,very long,1,intellectual
+Evening,Tuesday,indoor,very long,7,social
+Night,Tuesday,indoor,very long,7,intellectual
+Midnight,Tuesday,indoor,long,9,intellectual
+Morning,Wednesday,indoor,very long,7,intellectual
+Afternoon,Wednesday,indoor,very long,1,intellectual
+Evening,Wednesday,indoor,very short,7,intellectual
+Night,Wednesday,indoor,very short,7,intellectual
+Midnight,Wednesday,indoor,very long,1,intellectual
+Morning,Thursday,indoor,very long,7,intellectual
+Afternoon,Thursday,outdoor,short,10,errands
+Evening,Thursday,indoor,very long,7,intellectual
+Night,Thursday,indoor,very long,7,social
+Midnight,Thursday,indoor,very long,6,physical
+Morning,Friday,indoor,very long,8,intellectual
+Afternoon,Friday,indoor,long,5,intellectual
+Evening,Friday,indoor,very long,7,social
+Night,Friday,indoor,long,9,Spiritual
+Midnight,Friday,indoor,very long,10,social
+Afternoon,saturday,indoor,very short,8,chores
+Evening,saturday,indoor,very long,1,intellectual
+Night,saturday,outdoor,very long,8,social
+Early Morning,sunday,indoor,long,1,intellectual
+Afternoon,sunday,indoor,very long,7,chores
+Night,sunday,indoor,very long,8,intellectual
+Evening,sunday,indoor,very long,1,intellectual
+Midnight,sunday,outdoor,long,7,errands
+Early Morning,Monday,indoor,standard,3,fitness
+Morning,Monday,indoor,very long,7,intellectual
+Afternoon,Monday,indoor,very long,8,intellectual
+Evening,Monday,indoor,very long,6,intellectual
+Night,Monday,indoor,very long,9,intellectual
+Midnight,Monday,indoor,very long,6,intellectual
+Morning,Tuesday,indoor,very long,7,intellectual
+Afternoon,Tuesday,indoor,very long,1,intellectual
+Evening,Tuesday,indoor,very long,7,social
+Night,Tuesday,indoor,very long,7,intellectual
+Midnight,Tuesday,indoor,very long,9,intellectual
+Morning,Wednesday,indoor,very long,7,intellectual
+Afternoon,Wednesday,indoor,very long,1,intellectual
+Evening,Wednesday,indoor,very long,7,intellectual
+Night,Wednesday,indoor,very long,7,fitness
+Midnight,Wednesday,indoor,very long,1,intellectual
+Morning,Thursday,indoor,very long,7,intellectual
+Afternoon,Thursday,outdoor,short,10,errands
+Evening,Thursday,indoor,very long,7,intellectual
+Night,Thursday,indoor,very short,7,social
+Midnight,Thursday,indoor,very long,6,physical
+Morning,Friday,indoor,very long,8,intellectual
+Afternoon,Friday,indoor,very long,5,intellectual
+Evening,Friday,indoor,very long,7,social
+Night,Friday,indoor,very long,9,Spiritual
+Midnight,Friday,indoor,very long,10,social
+Afternoon,saturday,indoor,very long,8,chores
+Evening,saturday,indoor,very long,1,intellectual
+Night,saturday,outdoor,very long,8,social
+Early Morning,sunday,indoor,long,1,intellectual
+Afternoon,sunday,indoor,very long,7,chores
+Night,sunday,indoor,very long,8,intellectual
+Evening,sunday,indoor,very long,1,intellectual
+Midnight,sunday,outdoor,long,7,errands
+Early Morning,Monday,indoor,standard,3,fitness
+Morning,Monday,indoor,very long,7,intellectual
+Afternoon,Monday,indoor,very long,8,intellectual
+Evening,Monday,indoor,very long,6,intellectual
+Night,Monday,indoor,very long,9,intellectual
+Midnight,Monday,indoor,very long,6,intellectual
+Morning,Tuesday,indoor,short,7,intellectual
+Afternoon,Tuesday,indoor,very long,1,intellectual
+Evening,Tuesday,indoor,very long,7,social
+Night,Tuesday,indoor,very short,7,intellectual
+Midnight,Tuesday,indoor,very long,9,intellectual
+Morning,Wednesday,indoor,very long,7,intellectual
+Afternoon,Wednesday,indoor,very long,1,intellectual
+Evening,Wednesday,indoor,very long,7,intellectual
+Night,Wednesday,indoor,very long,7,intellectual
+Midnight,Wednesday,indoor,very short,1,intellectual
+Morning,Thursday,indoor,very long,7,intellectual
+Afternoon,Thursday,outdoor,short,10,errands
+Evening,Thursday,indoor,very long,7,intellectual
+Night,Thursday,indoor,very long,7,social
+Midnight,Thursday,indoor,very long,6,physical
+Morning,Friday,indoor,very long,8,intellectual
+Afternoon,Friday,indoor,very long,5,intellectual
+Evening,Friday,indoor,very long,7,social
+Night,Friday,indoor,short,9,Spiritual
+Midnight,Friday,indoor,very long,10,social
+Afternoon,saturday,indoor,very long,8,chores
+Evening,saturday,indoor,very long,1,intellectual
+Night,saturday,outdoor,very long,8,social
+Early Morning,sunday,indoor,long,1,intellectual
+Afternoon,sunday,indoor,very long,7,chores
+Night,sunday,indoor,very long,8,intellectual
+Evening,sunday,indoor,very long,1,intellectual
+Midnight,sunday,outdoor,long,7,errands
+Early Morning,Monday,indoor,standard,3,fitness
+Morning,Monday,indoor,very long,7,intellectual
+Afternoon,Monday,indoor,very long,8,intellectual
+Evening,Monday,indoor,very long,6,intellectual
+Night,Monday,indoor,very long,9,intellectual
+Midnight,Monday,indoor,very long,6,intellectual
+Morning,Tuesday,indoor,very long,7,intellectual
+Afternoon,Tuesday,indoor,very long,1,intellectual
+Evening,Tuesday,indoor,very long,7,social
+Night,Tuesday,indoor,very long,7,intellectual
+Midnight,Tuesday,indoor,very long,9,intellectual
+Morning,Wednesday,indoor,very long,7,intellectual
+Afternoon,Wednesday,indoor,very long,1,intellectual
+Evening,Wednesday,indoor,very long,7,intellectual
+Night,Wednesday,indoor,very long,7,fitness
+Midnight,Wednesday,indoor,very long,1,intellectual
+Morning,Thursday,indoor,very long,7,intellectual
+Afternoon,Thursday,outdoor,short,10,errands
+Evening,Thursday,indoor,very long,7,intellectual
+Night,Thursday,indoor,very long,7,social
+Midnight,Thursday,indoor,very long,6,physical
+Morning,Friday,indoor,very long,8,intellectual
+Afternoon,Friday,indoor,very long,5,intellectual
+Evening,Friday,indoor,very long,7,social
+Night,Friday,indoor,very long,9,Spiritual
+Midnight,Friday,indoor,very long,10,social
+Afternoon,saturday,indoor,very long,8,chores
+Evening,saturday,indoor,very long,1,intellectual
+Night,saturday,outdoor,very long,8,social
+Early Morning,sunday,indoor,long,1,intellectual
+Afternoon,sunday,indoor,very long,7,chores
+Night,sunday,indoor,very long,8,intellectual
+Evening,sunday,indoor,very long,1,intellectual
+Midnight,sunday,outdoor,very long,7,errands
+Early Morning,Monday,indoor,long,3,fitness
+Morning,Monday,indoor,very long,7,intellectual
+Afternoon,Monday,indoor,very long,8,intellectual
+Evening,Monday,indoor,very long,6,intellectual
+Night,Monday,indoor,very short,9,intellectual
+Midnight,Monday,indoor,very long,6,intellectual
+Morning,Tuesday,indoor,very long,7,intellectual
+Afternoon,Tuesday,indoor,very long,1,intellectual
+Evening,Tuesday,indoor,very long,7,social
+Night,Tuesday,indoor,very long,7,intellectual
+Midnight,Tuesday,indoor,very long,9,intellectual
+Morning,Wednesday,indoor,very long,7,intellectual
+Afternoon,Wednesday,indoor,very long,1,intellectual
+Evening,Wednesday,indoor,very long,7,intellectual
+Night,Wednesday,indoor,long,7,intellectual
+Midnight,Wednesday,indoor,very long,1,intellectual
+Morning,Thursday,indoor,very long,7,intellectual
+Afternoon,Thursday,outdoor,short,10,errands
+Evening,Thursday,indoor,very long,7,intellectual
+Night,Thursday,indoor,very long,7,social
+Midnight,Thursday,indoor,very long,6,physical
+Morning,Friday,indoor,very short,8,intellectual
+Afternoon,Friday,indoor,very long,5,intellectual
+Evening,Friday,indoor,long,7,social
+Night,Friday,indoor,very long,9,Spiritual
+Midnight,Friday,indoor,very long,10,social
+Afternoon,saturday,indoor,very short,8,chores
+Evening,saturday,indoor,very long,1,intellectual
+Night,saturday,outdoor,very long,8,social
+Early Morning,sunday,indoor,long,1,intellectual
+Afternoon,sunday,indoor,very long,7,chores
+Night,sunday,indoor,very long,8,intellectual
+Evening,sunday,indoor,very long,1,intellectual
+Midnight,sunday,outdoor,long,7,errands
+Early Morning,Monday,indoor,standard,3,fitness
+Morning,Monday,indoor,very long,7,intellectual
+Afternoon,Monday,indoor,very long,8,intellectual
+Evening,Monday,indoor,very long,6,intellectual
+Night,Monday,indoor,very long,9,intellectual
+Midnight,Monday,indoor,very long,6,intellectual
+Morning,Tuesday,indoor,very long,7,intellectual
+Afternoon,Tuesday,indoor,very long,1,intellectual
+Evening,Tuesday,indoor,very long,7,social
+Night,Tuesday,indoor,very long,7,intellectual
+Midnight,Tuesday,indoor,very long,9,intellectual
+Morning,Wednesday,indoor,very long,7,intellectual
+Afternoon,Wednesday,indoor,very long,1,intellectual
+Evening,Wednesday,indoor,very long,7,intellectual
+Night,Wednesday,indoor,very long,7,intellectual
+Midnight,Wednesday,indoor,very long,1,intellectual
+Morning,Thursday,indoor,very long,7,intellectual
+Afternoon,Thursday,outdoor,short,10,errands
+Evening,Thursday,indoor,very long,7,intellectual
+Night,Thursday,indoor,very short,7,social
+Midnight,Thursday,indoor,very long,6,physical
+Morning,Friday,indoor,very long,8,intellectual
+Afternoon,Friday,indoor,very long,5,intellectual
+Evening,Friday,indoor,very long,7,social
+Night,Friday,indoor,very long,9,Spiritual
+Midnight,Friday,indoor,very long,10,social
+Afternoon,saturday,indoor,very long,8,chores
+Evening,saturday,indoor,very long,1,intellectual
+Night,saturday,outdoor,very long,8,social
+Early Morning,sunday,indoor,long,1,intellectual
+Afternoon,sunday,indoor,very long,7,chores
+Night,sunday,indoor,very long,8,intellectual
+Evening,sunday,indoor,very long,1,intellectual
+Midnight,sunday,outdoor,long,7,errands
+Early Morning,Monday,indoor,standard,3,fitness
+Morning,Monday,indoor,very long,7,intellectual
+Afternoon,Monday,indoor,very long,8,intellectual
+Evening,Monday,indoor,very long,6,intellectual
+Night,Monday,indoor,very long,9,intellectual
+Midnight,Monday,indoor,very long,6,intellectual
+Morning,Tuesday,indoor,short,7,intellectual
+Afternoon,Tuesday,indoor,very long,1,intellectual
+Evening,Tuesday,indoor,very long,7,social
+Night,Tuesday,indoor,very short,7,intellectual
+Midnight,Tuesday,indoor,very long,9,intellectual
+Morning,Wednesday,indoor,very long,7,intellectual
+Afternoon,Wednesday,indoor,very long,1,intellectual
+Evening,Wednesday,indoor,very long,7,intellectual
+Night,Wednesday,indoor,very long,7,intellectual
+Midnight,Wednesday,indoor,very short,1,intellectual
+Morning,Thursday,indoor,very long,7,intellectual
+Afternoon,Thursday,outdoor,short,10,errands
+Evening,Thursday,indoor,very long,7,intellectual
+Night,Thursday,indoor,very long,7,social
+Midnight,Thursday,indoor,very long,6,physical
+Morning,Friday,indoor,very long,8,intellectual
+Afternoon,Friday,indoor,very long,5,intellectual
+Evening,Friday,indoor,very long,7,social
+Night,Friday,indoor,short,9,Spiritual
+Midnight,Friday,indoor,very long,10,social
+Afternoon,saturday,indoor,very long,8,chores
+Evening,saturday,indoor,very long,1,intellectual
+Night,saturday,outdoor,very long,8,social
+Early Morning,sunday,indoor,long,1,intellectual
+Afternoon,sunday,indoor,very long,7,chores
+Night,sunday,indoor,very long,8,intellectual
+Evening,sunday,indoor,very long,1,intellectual
+Midnight,sunday,outdoor,long,7,errands
+Early Morning,Monday,indoor,standard,3,fitness
+Morning,Monday,indoor,very long,7,intellectual
+Afternoon,Monday,indoor,very long,8,intellectual
+Evening,Monday,indoor,very long,6,intellectual
+Night,Monday,indoor,very long,9,intellectual
+Midnight,Monday,indoor,very long,6,intellectual
+Morning,Tuesday,indoor,very long,7,intellectual
+Afternoon,Tuesday,indoor,very long,1,intellectual
+Evening,Tuesday,indoor,very long,7,social
+Night,Tuesday,indoor,very long,7,fitness
+Midnight,Tuesday,indoor,very long,9,intellectual
+Morning,Wednesday,indoor,very long,7,intellectual
+Afternoon,Wednesday,indoor,very long,1,intellectual
+Evening,Wednesday,indoor,very long,7,intellectual
+Night,Wednesday,indoor,very long,7,intellectual
+Midnight,Wednesday,indoor,very long,1,intellectual
+Morning,Thursday,indoor,very long,7,intellectual
+Afternoon,Thursday,outdoor,short,10,errands
+Evening,Thursday,indoor,very long,7,intellectual
+Night,Thursday,indoor,very long,7,social
+Midnight,Thursday,indoor,very long,6,physical
+Morning,Friday,indoor,very long,8,intellectual
+Afternoon,Friday,indoor,very long,5,intellectual
+Evening,Friday,indoor,very long,7,social
+Night,Friday,indoor,very long,9,Spiritual
+Midnight,Friday,indoor,very long,10,social
+Afternoon,saturday,indoor,very long,8,chores
+Evening,saturday,indoor,very long,1,intellectual
+Night,saturday,outdoor,very long,8,social
+Early Morning,sunday,indoor,long,1,intellectual
+Afternoon,sunday,indoor,very long,7,chores
+Night,sunday,indoor,very long,8,intellectual
+Evening,sunday,indoor,very long,1,intellectual
+Midnight,sunday,outdoor,very long,7,errands
+Early Morning,Monday,indoor,long,3,fitness
+Morning,Monday,indoor,very long,7,intellectual
+Afternoon,Monday,indoor,very long,8,intellectual
+Evening,Monday,indoor,very long,6,intellectual
+Night,Monday,indoor,very short,9,intellectual
+Midnight,Monday,indoor,very long,6,intellectual
+Morning,Tuesday,indoor,very long,7,intellectual
+Afternoon,Tuesday,indoor,very long,1,intellectual
+Evening,Tuesday,indoor,very long,7,social
+Night,Tuesday,indoor,very long,7,intellectual
+Midnight,Tuesday,indoor,very long,9,intellectual
+Morning,Wednesday,indoor,very long,7,intellectual
+Afternoon,Wednesday,indoor,very long,1,intellectual
+Evening,Wednesday,indoor,very long,7,intellectual
+Night,Wednesday,indoor,long,7,intellectual
+Midnight,Wednesday,indoor,very long,1,intellectual
+Morning,Thursday,indoor,very long,7,intellectual
+Afternoon,Thursday,outdoor,short,10,errands
+Evening,Thursday,indoor,very long,7,intellectual
+Night,Thursday,indoor,very long,7,social
+Midnight,Thursday,indoor,very long,6,physical
+Morning,Friday,indoor,very short,8,intellectual
+Afternoon,Friday,indoor,very long,5,intellectual
+Evening,Friday,indoor,long,7,social
+Night,Friday,indoor,very long,9,Spiritual
+Midnight,Friday,indoor,very long,10,social
+Afternoon,saturday,indoor,very short,8,chores
+Evening,saturday,indoor,very long,1,intellectual
+Night,saturday,outdoor,very long,8,social
+Early Morning,sunday,indoor,long,1,intellectual
+Afternoon,sunday,indoor,very long,7,chores
+Night,sunday,indoor,very long,8,intellectual
+Evening,sunday,indoor,very long,1,intellectual
+Midnight,sunday,outdoor,long,7,errands
+Early Morning,Monday,indoor,standard,3,fitness
+Morning,Monday,indoor,very long,7,intellectual
+Afternoon,Monday,indoor,very long,8,intellectual
+Evening,Monday,indoor,very long,6,intellectual
+Night,Monday,indoor,very long,9,intellectual
+Midnight,Monday,indoor,very long,6,intellectual
+Morning,Tuesday,indoor,very long,7,intellectual
+Afternoon,Tuesday,indoor,very long,1,intellectual
+Evening,Tuesday,indoor,very long,7,social
+Night,Tuesday,indoor,very long,7,intellectual
+Midnight,Tuesday,indoor,very long,9,intellectual
+Morning,Wednesday,indoor,very long,7,intellectual
+Afternoon,Wednesday,indoor,very long,1,intellectual
+Evening,Wednesday,indoor,very long,7,intellectual
+Night,Wednesday,indoor,very long,7,intellectual
+Midnight,Wednesday,indoor,very long,1,intellectual
+Morning,Thursday,indoor,very long,7,intellectual
+Afternoon,Thursday,outdoor,short,10,errands
+Evening,Thursday,indoor,very long,7,intellectual
+Night,Thursday,indoor,very short,7,social
+Midnight,Thursday,indoor,very long,6,physical
+Morning,Friday,indoor,very long,8,intellectual
+Afternoon,Friday,indoor,very long,5,intellectual
+Evening,Friday,indoor,very long,7,social
+Night,Friday,indoor,very long,9,Spiritual
+Midnight,Friday,indoor,very long,10,social
+Afternoon,saturday,indoor,very long,8,chores
+Evening,saturday,indoor,very long,1,intellectual
+Night,saturday,outdoor,very long,8,social
+Early Morning,sunday,indoor,long,1,intellectual
+Afternoon,sunday,indoor,very long,7,chores
+Night,sunday,indoor,very long,8,intellectual
+Evening,sunday,indoor,very long,1,intellectual
+Midnight,sunday,outdoor,long,7,errands
+Early Morning,Monday,indoor,standard,3,fitness
+Morning,Monday,indoor,very long,7,intellectual
+Afternoon,Monday,indoor,very long,8,intellectual
+Evening,Monday,indoor,very long,6,intellectual
+Night,Monday,indoor,very long,9,intellectual
+Midnight,Monday,indoor,very long,6,intellectual
+Morning,Tuesday,indoor,short,7,intellectual
+Afternoon,Tuesday,indoor,very long,1,intellectual
+Evening,Tuesday,indoor,very long,7,social
+Night,Tuesday,indoor,very short,7,intellectual
+Midnight,Tuesday,indoor,very long,9,intellectual
+Morning,Wednesday,indoor,very long,7,intellectual
+Afternoon,Wednesday,indoor,very long,1,intellectual
+Evening,Wednesday,indoor,very long,7,intellectual
+Night,Wednesday,indoor,very long,7,intellectual
+Midnight,Wednesday,indoor,very short,1,intellectual
+Morning,Thursday,indoor,very long,7,intellectual
+Afternoon,Thursday,outdoor,short,10,errands
+Evening,Thursday,indoor,very long,7,intellectual
+Night,Thursday,indoor,very long,7,social
+Midnight,Thursday,indoor,very long,6,physical
+Morning,Friday,indoor,very long,8,intellectual
+Afternoon,Friday,indoor,very long,5,intellectual
+Evening,Friday,indoor,very long,7,social
+Night,Friday,indoor,short,9,Spiritual
+Midnight,Friday,indoor,very long,10,social
+Afternoon,saturday,indoor,very long,8,chores
+Evening,saturday,indoor,very long,1,intellectual
+Night,saturday,outdoor,very long,8,social
+Early Morning,sunday,indoor,long,1,intellectual
+Afternoon,sunday,indoor,very long,7,chores
+Night,sunday,indoor,very long,8,intellectual
+Evening,sunday,indoor,very long,1,intellectual
+Midnight,sunday,outdoor,long,7,errands
+Early Morning,Monday,indoor,standard,3,fitness
+Morning,Monday,indoor,very long,7,intellectual
+Afternoon,Monday,indoor,very long,8,intellectual
+Evening,Monday,indoor,very long,6,intellectual
+Night,Monday,indoor,very long,9,intellectual
+Midnight,Monday,indoor,very long,6,intellectual
+Morning,Tuesday,indoor,very long,7,intellectual
+Afternoon,Tuesday,indoor,very long,1,intellectual
+Evening,Tuesday,indoor,very long,7,social
+Night,Tuesday,indoor,very long,7,intellectual
+Midnight,Tuesday,indoor,very long,9,intellectual
+Morning,Wednesday,indoor,very long,7,intellectual
+Afternoon,Wednesday,indoor,very long,1,intellectual
+Evening,Wednesday,indoor,very long,7,intellectual
+Night,Wednesday,indoor,very long,7,intellectual
+Midnight,Wednesday,indoor,very long,1,intellectual
+Morning,Thursday,indoor,very long,7,intellectual
+Afternoon,Thursday,outdoor,short,10,errands
+Evening,Thursday,indoor,very long,7,intellectual
+Night,Thursday,indoor,very long,7,social
+Midnight,Thursday,indoor,very long,6,physical
+Morning,Friday,indoor,very long,8,intellectual
+Afternoon,Friday,indoor,very long,5,intellectual
+Evening,Friday,indoor,very long,7,social
+Night,Friday,indoor,very long,9,Spiritual
+Midnight,Friday,indoor,very long,10,social
+Afternoon,saturday,indoor,very long,8,chores
+Evening,saturday,indoor,very long,1,intellectual
+Night,saturday,outdoor,very long,8,social
+Early Morning,sunday,indoor,long,1,intellectual
+Afternoon,sunday,indoor,very long,7,chores
+Night,sunday,indoor,very long,8,intellectual
+Evening,sunday,indoor,very long,1,intellectual
+Midnight,sunday,outdoor,very long,7,errands
+Early Morning,Monday,indoor,long,3,fitness
+Morning,Monday,indoor,very long,7,intellectual
+Afternoon,Monday,indoor,very long,8,intellectual
+Evening,Monday,indoor,very long,6,intellectual
+Night,Monday,indoor,very short,9,intellectual
+Midnight,Monday,indoor,very long,6,intellectual
+Morning,Tuesday,indoor,very long,7,intellectual
+Afternoon,Tuesday,indoor,very long,1,intellectual
+Evening,Tuesday,indoor,very long,7,social
+Night,Tuesday,indoor,very long,7,intellectual
+Midnight,Tuesday,indoor,very long,9,intellectual
+Morning,Wednesday,indoor,very long,7,intellectual
+Afternoon,Wednesday,indoor,very long,1,intellectual
+Evening,Wednesday,indoor,very long,7,intellectual
+Night,Wednesday,indoor,long,7,intellectual
+Midnight,Wednesday,indoor,very long,1,intellectual
+Morning,Thursday,indoor,very long,7,intellectual
+Afternoon,Thursday,outdoor,short,10,errands
+Evening,Thursday,indoor,very long,7,intellectual
+Night,Thursday,indoor,very long,7,social
+Midnight,Thursday,indoor,very long,6,physical
+Morning,Friday,indoor,very short,8,intellectual
+Afternoon,Friday,indoor,very long,5,intellectual
+Evening,Friday,indoor,long,7,social
+Night,Friday,indoor,very long,9,Spiritual
+Midnight,Friday,indoor,very long,10,social
