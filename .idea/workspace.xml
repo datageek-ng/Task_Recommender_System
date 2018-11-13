@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="afa12dc0-a4fe-4415-bb9f-1a667d3d3a6e" name="Default Changelist" comment="" />
+    <list default="true" id="afa12dc0-a4fe-4415-bb9f-1a667d3d3a6e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Thesis_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/thesis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/thesis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final_result.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/final_result.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/new.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new2.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/new2.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newcorr.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/newcorr.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/test_1.csv" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,52 +51,63 @@
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
+    <session id="574956747">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.155" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thesis_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="328" column="33" lean-forward="true" selection-start-line="326" selection-start-column="4" selection-end-line="328" selection-end-column="33" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thesis_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="117" column="38" lean-forward="true" selection-start-line="117" selection-start-column="22" selection-end-line="117" selection-end-column="38" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/thesis_3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="112" column="43" selection-start-line="112" selection-start-column="43" selection-end-line="112" selection-end-column="43" />
+            <state>
+              <caret column="8" selection-start-column="8" selection-end-column="8" />
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
-                <marker date="1540536778413" expanded="true" signature="2988:4137" ph="..." />
                 <marker date="1540536778413" expanded="true" signature="4122:4123" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/111.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Thesis_4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+            <state relative-caret-position="493">
+              <caret line="29" column="79" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="29" selection-end-column="79" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -106,6 +127,9 @@
       <find>outdoor</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -113,10 +137,11 @@
         <option value="$PROJECT_DIR$/thesis_2.py" />
         <option value="$PROJECT_DIR$/111.py" />
         <option value="$PROJECT_DIR$/thesis_3.py" />
+        <option value="$PROJECT_DIR$/Thesis_4.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1272" />
     <option name="height" value="1061" />
   </component>
@@ -125,18 +150,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="thesis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="thesis" type="462c0819:PsiDirectoryNode" />
+              <item name="Task_Recommender_System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Task_Recommender_System" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -154,7 +179,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.thesis_3">
+  <component name="RunManager" selected="Python.Thesis_4">
+    <configuration name="Thesis_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="thesis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Thesis_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="thesis_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="thesis" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,6 +214,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thesis_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="thesis_3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="thesis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/thesis_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,10 +267,14 @@
     <list>
       <item itemvalue="Python.thesis_2" />
       <item itemvalue="Python.thesis_3" />
+      <item itemvalue="Python.thesis_3 (1)" />
+      <item itemvalue="Python.Thesis_4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Thesis_4" />
         <item itemvalue="Python.thesis_3" />
+        <item itemvalue="Python.thesis_3 (1)" />
         <item itemvalue="Python.thesis_2" />
       </list>
     </recent_temporary>
@@ -222,11 +293,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1272" height="1061" extended-state="1" />
+    <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.06528662" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.05234375" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -234,7 +305,7 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.33508956" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.33368644" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39978448" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -252,39 +323,48 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/111.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        <state relative-caret-position="136">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/thesis_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="117" column="38" lean-forward="true" selection-start-line="117" selection-start-column="22" selection-end-line="117" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="697">
+          <caret line="117" column="38" selection-start-line="117" selection-start-column="22" selection-end-line="117" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/thesis_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="328" column="33" lean-forward="true" selection-start-line="326" selection-start-column="4" selection-end-line="328" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="867">
+          <caret line="328" column="33" selection-start-line="326" selection-start-column="4" selection-end-line="328" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/thesis_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/thesis_3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="112" column="43" selection-start-line="112" selection-start-column="43" selection-end-line="112" selection-end-column="43" />
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+          <folding>
+            <marker date="1540536778413" expanded="true" signature="4122:4123" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thesis_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="79" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="29" selection-end-column="79" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-            <marker date="1540536778413" expanded="true" signature="2988:4137" ph="..." />
-            <marker date="1540536778413" expanded="true" signature="4122:4123" ph="..." />
           </folding>
         </state>
       </provider>
